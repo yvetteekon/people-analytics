@@ -1,0 +1,11 @@
+# git-related
+*.swp
+
+# python-related
+*.ipynb_checkpoints/
+
+# folders
+backup
+
+
+
