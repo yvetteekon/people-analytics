@@ -1,4 +1,4 @@
-# employee-attrition-project
+# Employee-Attrition-Project
 ### Project Summary
 The Board of the human capital department of a large corporation I work for is worried about the relatively high
 turnover of employees. As an analyst on the team assigned to this task, I am to provide a report to help the board better understand the situation:
